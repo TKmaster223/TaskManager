@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|c:\\users\\musa tukur\\source\\repos\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|c:\\users\\musa tukur\\source\\repos\\taskmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|c:\\users\\musa tukur\\source\\repos\\taskmanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|c:\\users\\musa tukur\\source\\repos\\taskmanagerapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|c:\\users\\musa tukur\\source\\repos\\taskmanagerapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|c:\\users\\musa tukur\\source\\repos\\taskmanagerapi\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|solutionrelative:models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|c:\\users\\musa tukur\\source\\repos\\taskmanagerapi\\taskmanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|solutionrelative:taskmanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|c:\\users\\musa tukur\\source\\repos\\taskmanagerapi\\migrations\\20241209081356_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40265769-1950-4006-B43B-3F949CC8A614}|TaskManagerApi.csproj|solutionrelative:migrations\\20241209081356_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Models\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Models\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Models\\TaskContext.cs",
+              "RelativeToolTip": "Models\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:24:11.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T08:23:43.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T07:32:57.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAgMzMzMzMrwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:32:29.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:23:51.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskManagerApi.csproj",
+              "DocumentMoniker": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\TaskManagerApi.csproj",
+              "RelativeDocumentMoniker": "TaskManagerApi.csproj",
+              "ToolTip": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\TaskManagerApi.csproj",
+              "RelativeToolTip": "TaskManagerApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T07:23:02.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241209081356_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Migrations\\20241209081356_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209081356_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Migrations\\20241209081356_Initial Migration.cs",
+              "RelativeToolTip": "Migrations\\20241209081356_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:13:57.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\musa tukur\\source\\repos\\TaskManagerApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:21:37.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
