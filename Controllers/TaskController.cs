@@ -35,11 +35,28 @@ namespace TaskManagerApi.Controllers
 
         [HttpPost("PostTask")]
         public async Task<ActionResult<Tasks>> PostTask(Tasks task)
+        
         {
             _context.Tasks.Add(task);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetTask", new { id = task.Id }, task);
+        }
+
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<Tasks>> DeleteTask(int id)
+        {
+            var task = await _context.Tasks.FindAsync(id);
+            if (task == null)
+            {
+                return NotFound();
+            }
+
+            _context.Tasks.Remove(task);
+            await _context.SaveChangesAsync();
+
+            return task;
         }
     }
 }

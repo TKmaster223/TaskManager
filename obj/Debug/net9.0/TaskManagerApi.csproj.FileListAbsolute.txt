@@ -156,3 +156,4 @@ C:\Users\musa tukur\source\repos\TaskManagerApi\obj\Debug\net9.0\refint\TaskMana
 C:\Users\musa tukur\source\repos\TaskManagerApi\obj\Debug\net9.0\TaskManagerApi.pdb
 C:\Users\musa tukur\source\repos\TaskManagerApi\obj\Debug\net9.0\TaskManagerApi.genruntimeconfig.cache
 C:\Users\musa tukur\source\repos\TaskManagerApi\obj\Debug\net9.0\ref\TaskManagerApi.dll
+C:\Users\musa tukur\source\repos\TaskManagerApi\obj\Debug\net9.0\TaskManagerApi.sourcelink.json
